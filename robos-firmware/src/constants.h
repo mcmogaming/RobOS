@@ -1,0 +1,2 @@
+#define MAX_NUM_CMDS 5
+#define MAX_CMD_LENGTH 10
